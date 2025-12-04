@@ -1,0 +1,10 @@
+(양식1)[[:space:]]음성데이터[[:space:]]처리[[:space:]]결과보고서_(흑석동[[:space:]]물주먹).xlsx filter=lfs diff=lfs merge=lfs -text
+2025[[:space:]]가명정보[[:space:]]활용[[:space:]]경진대회[[:space:]]발표자료[[:space:]]흑석동물주먹.pdf filter=lfs diff=lfs merge=lfs -text
+anonymization.ipynb filter=lfs diff=lfs merge=lfs -text
+비정형데이터_처리문서.docx filter=lfs diff=lfs merge=lfs -text
+사례1_가명처리.m4a filter=lfs diff=lfs merge=lfs -text
+흑석동물주먹_2025[[:space:]]가명정보활용경진대회_기술부문_본선_정형데이터.csv filter=lfs diff=lfs merge=lfs -text
+본선_제출물_흑석동물주먹.zip filter=lfs diff=lfs merge=lfs -text
+사례2_가명처리.m4a filter=lfs diff=lfs merge=lfs -text
+사례3_가명처리.m4a filter=lfs diff=lfs merge=lfs -text
+정형데이터_처리문서.docx filter=lfs diff=lfs merge=lfs -text
